@@ -14,4 +14,4 @@ Compact light alfred theme
 * [Download](Minimal Wide.alfredappearance)
 * Double click on `Minimal Wide.alfredappearance`
 
-_Alternative URL on Alfred Themes: [Minimal Wide](https://www.alfredapp.com/extras/theme/XOF7UrIRLz/)_
+_Alternative URL on Alfred Themes: [Minimal Wide](https://www.alfredapp.com/extras/theme/6NtIR0m7MG/)_
