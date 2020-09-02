@@ -53,8 +53,8 @@
       "thickness" : 0
     },
     "scrollbar" : {
-      "color" : "#561A72FF",
-      "thickness" : 0
+      "color" : "#48766DFF",
+      "thickness" : 1
     },
     "name" : "Minimal Wide"
   }
